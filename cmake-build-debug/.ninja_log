@@ -1,0 +1,13 @@
+# ninja log v5
+1	79	7252536039314475	CMakeFiles/Cproject.dir/main.c.obj	ef8150a04a40f04a
+80	171	7252536040194479	Cproject.exe	c61376f898af3ffc
+2	97	7252615795347348	CMakeFiles/Cproject.dir/C2_第一个程序.c.obj	be10304e06427cbe
+1	64	7252617420185584	CMakeFiles/Cproject.dir/main.c.obj	ef8150a04a40f04a
+8	75	7252617420293676	CMakeFiles/Cproject.dir/C2_第一个程序.c.obj	be10304e06427cbe
+75	152	7252617421037856	Cproject.exe	535d76788e68e694
+1	66	7252623761825318	CMakeFiles/Cproject.dir/C2_第一个程序.c.obj	be10304e06427cbe
+67	142	7252623762552157	Cproject.exe	535d76788e68e694
+1	70	7252628454764576	CMakeFiles/Cproject.dir/C2_第一个程序.c.obj	be10304e06427cbe
+71	181	7252628455532741	Cproject.exe	535d76788e68e694
+1	68	7252628626892889	CMakeFiles/Cproject.dir/C2_第一个程序.c.obj	be10304e06427cbe
+68	152	7252628627665160	Cproject.exe	535d76788e68e694
