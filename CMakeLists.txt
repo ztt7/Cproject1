@@ -3,4 +3,4 @@ project(Cproject C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Cproject main.c C2_第一个程序.c)
+add_executable(Cproject main.c C2_第一个程序.c C3.c C7.c)

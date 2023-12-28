@@ -61,6 +61,18 @@ build CMakeFiles/Cproject.dir/C2_第一个程序.c.obj: C_COMPILER__Cproject_Debug D$
   OBJECT_DIR = CMakeFiles\Cproject.dir
   OBJECT_FILE_DIR = CMakeFiles\Cproject.dir
 
+build CMakeFiles/Cproject.dir/C3.c.obj: C_COMPILER__Cproject_Debug D$:/code/Workspace_CLion/Cproject/C3.c || cmake_object_order_depends_target_Cproject
+  DEP_FILE = CMakeFiles\Cproject.dir\C3.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\Cproject.dir
+  OBJECT_FILE_DIR = CMakeFiles\Cproject.dir
+
+build CMakeFiles/Cproject.dir/C7.c.obj: C_COMPILER__Cproject_Debug D$:/code/Workspace_CLion/Cproject/C7.c || cmake_object_order_depends_target_Cproject
+  DEP_FILE = CMakeFiles\Cproject.dir\C7.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\Cproject.dir
+  OBJECT_FILE_DIR = CMakeFiles\Cproject.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Cproject
@@ -69,7 +81,7 @@ build CMakeFiles/Cproject.dir/C2_第一个程序.c.obj: C_COMPILER__Cproject_Debug D$
 #############################################
 # Link the executable Cproject.exe
 
-build Cproject.exe: C_EXECUTABLE_LINKER__Cproject_Debug CMakeFiles/Cproject.dir/main.c.obj CMakeFiles/Cproject.dir/C2_第一个程序.c.obj
+build Cproject.exe: C_EXECUTABLE_LINKER__Cproject_Debug CMakeFiles/Cproject.dir/main.c.obj CMakeFiles/Cproject.dir/C2_第一个程序.c.obj CMakeFiles/Cproject.dir/C3.c.obj CMakeFiles/Cproject.dir/C7.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Cproject.dir
